@@ -2,3 +2,5 @@
 1. Controlling DigiCam controller for taking EL images <a href=https://stackoverflow.com/questions/43358257/using-digicamcontrol-to-control-nikon-camera-using-python> Here</a>
 2. DigiCam User guide <a href=http://digicamcontrol.com/doc/userguide/cmd> Here</a>
 3. PV Cell Datasets https://github.com/zae-bayern/elpv-dataset
+4. TDK Lambda <a href = "https://www.us.lambda.tdk.com/"> Here </a> can be scraped using web scraping as it is hosted on a local host
+  4.1 TDK lambda has no WiFi but has RS 232
