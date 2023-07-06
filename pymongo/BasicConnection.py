@@ -2,6 +2,7 @@ from pymongo import MongoClient
 
 client = MongoClient("<Connection String>")
 
+# DB and Collection is not created until there is posage
 # create a DB
 db = client.DBName
 
