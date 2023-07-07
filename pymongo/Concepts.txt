@@ -1,0 +1,3 @@
+<h3>Indexing
+Indexing is one of the way of improving performance of data retrieval specially big data. It basically creates a subset datastructure from database with respect to the index.
+Now when it is required to search for an item of whose index is created, search is done in the data structure rather than DB.
