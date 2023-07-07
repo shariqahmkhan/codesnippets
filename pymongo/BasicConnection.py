@@ -10,6 +10,7 @@ db = client.DBName
 collection = db.Collection
 
 # create a sample data
+# Json like recognises int, string type among others (object, array, bool, null)
 item_1 = {
   "_id" : "U1IT00001",
   "item_name" : "Blender",
