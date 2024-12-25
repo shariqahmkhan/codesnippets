@@ -2,6 +2,16 @@
 
 A collection of useful code snippets for web developers, data scientists, and more.
 
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Why This Project is Helpful](#why-this-project-is-helpful)
+- [Getting Started](#getting-started)
+- [How to Contribute](#how-to-contribute)
+- [Getting Help](#getting-help)
+- [Maintainers](#maintainers)
+- [Useful Commands](#useful-commands)
+- [License](#license)
+
 ## About the Project
 This project aims to provide a repository of useful code snippets that can save time and effort for developers.
 
