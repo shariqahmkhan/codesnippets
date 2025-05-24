@@ -1,2 +1,2 @@
 
-Get-DnsServerResourceRecord -Name fc-lsa-fadat1p -ZoneName "fincantieri.it" -Type "CNAME"
+Get-DnsServerResourceRecord -Name fc-lsa-fadat1p -ZoneName "domain name" -Type "CNAME"
